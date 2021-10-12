@@ -37,6 +37,6 @@ SELECT last_name, COUNT(last_name) FROM "Employees"
 GROUP BY last_name
 ORDER BY COUNT(last_name) DESC;
 
--- Epilogue
+-- Epilogue --
 SELECT * FROM "Employees"
 WHERE emp_no = 499942;
