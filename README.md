@@ -69,6 +69,7 @@ As you examine the data, you are overcome with a creeping suspicion that the dat
 ![](https://github.com/Rlizaran/sql-challenge/blob/main/EmployeeSQL/Images/Most%20Common%20Salary%20Among%20Employees.png)
 
 3. Create a bar chart of average salary by title.
+* Table is ordered by Salary in descending order
 
 ![](https://github.com/Rlizaran/sql-challenge/blob/main/EmployeeSQL/Images/Average%20Salary%20by%20Title.png)
 
